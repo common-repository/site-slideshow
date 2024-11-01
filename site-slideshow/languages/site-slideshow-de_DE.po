@@ -1,0 +1,235 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Site Slideshow\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-25 13:33+0100\n"
+"PO-Revision-Date: 2011-02-25 13:36+0100\n"
+"Last-Translator: Dietrich Koch <info@internetdienste-berlin.de>\n"
+"Language-Team: Dietrich Koch <info@internetdienste-berlin.de>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../site-slideshow.php:34
+#: ../site-slideshow.php:35
+#: ../slideshow-widget.php:39
+msgid "Slideshow"
+msgstr "Slideshow"
+
+#: ../site-slideshow.php:45
+msgid "Save Settings"
+msgstr "Sichere Optionen"
+
+#: ../site-slideshow.php:46
+msgid "General Settings"
+msgstr "Allgemeine Optionen"
+
+#: ../site-slideshow.php:48
+msgid "Appearance &amp; Styles"
+msgstr "Erscheinungsbild  &amp; Styles"
+
+#: ../site-slideshow.php:71
+msgid "All configuration settings have been reset to their defaults"
+msgstr "Alle Optionen werden zu ihren Standardwerten zur&uuml;ckgesetzt"
+
+#: ../site-slideshow.php:75
+msgid "Configuration settings could not be reset"
+msgstr "Optionen k&ouml;nnen nicht zur&uuml;ckgesetzt werden"
+
+#: ../site-slideshow.php:88
+msgid "Configuration has been saved"
+msgstr "Optionen wurden gesichert"
+
+#: ../slideshow-gallery-plugin.php:177
+msgid "Uploads folder named \""
+msgstr "Name des Hochladeverzeichnisses"
+
+#: ../slideshow-widget.php:33
+msgid "widget that display a slideshow from all attachments"
+msgstr "Widget, das aus allen Attachments eine Slideshow erzeugt"
+
+#: ../slideshow-widget.php:34
+msgid "Slideshow Widget"
+msgstr "Slideshow Widget"
+
+#: ../slideshow-widget.php:44
+msgid "Title"
+msgstr "Titel"
+
+#: ../slideshow-widget.php:45
+msgid "Description"
+msgstr "Beschreibung"
+
+#: ../views/admin/settings.php:17
+msgid "Configuration Settings"
+msgstr "Optionen"
+
+#: ../views/admin/settings.php:36
+msgid "A small thank you?"
+msgstr "Ein kleines Dankeschön?"
+
+#: ../views/admin/metaboxes/settings-general.php:9
+msgid "Auto Speed"
+msgstr "Geschwindigkeit des Bildwechsels"
+
+#: ../views/admin/metaboxes/settings-general.php:11
+msgid "speed"
+msgstr "Geschwindigkeit"
+
+#: ../views/admin/metaboxes/settings-general.php:12
+msgid "default:2000 (in ms)"
+msgstr "Standard: 2000 (in ms)"
+
+#: ../views/admin/metaboxes/settings-general.php:12
+msgid "lower number for shorter interval between images"
+msgstr "kleinere Zahlen für k&uuml;rzere Abst&auml;nde zwischen den Bildern"
+
+#: ../views/admin/metaboxes/settings-general.php:22
+msgid "Image Fading Speed"
+msgstr "Geschwindigkeit des Bild&uuml;bergangs"
+
+#: ../views/admin/metaboxes/settings-general.php:25
+msgid "default:2000 recommended:1000-20000 (in ms)"
+msgstr "Standard:2000 empfohlen: 1000-20000 (in ms)"
+
+#: ../views/admin/metaboxes/settings-general.php:25
+msgid "lower number for quicker fading of images"
+msgstr "kleinere Zahlen f&uuml;r schnelleren Bild&uuml;bergang"
+
+#: ../views/admin/metaboxes/settings-general.php:30
+msgid "Show title of post"
+msgstr "Zeige Titel des Artikels bzw. der Seite"
+
+#: ../views/admin/metaboxes/settings-general.php:32
+#: ../views/admin/metaboxes/settings-general.php:44
+msgid "Yes"
+msgstr "Ja"
+
+#: ../views/admin/metaboxes/settings-general.php:33
+#: ../views/admin/metaboxes/settings-general.php:45
+msgid "No"
+msgstr "Nein"
+
+#: ../views/admin/metaboxes/settings-general.php:42
+msgid "Choose random modus"
+msgstr "Wähle zufällige Bildreihenfolge"
+
+#: ../views/admin/metaboxes/settings-general.php:46
+msgid "If you choose NO you see the images always in the same reverse time order "
+msgstr "Wenn Sie Nein w&auml;hlen, werden die Bilder immer in der gleichen Reihenfolge gezeigt"
+
+#: ../views/admin/metaboxes/settings-general.php:50
+msgid "Number of slides"
+msgstr "Anzahl der Bilder"
+
+#: ../views/admin/metaboxes/settings-general.php:53
+msgid "default:1000 "
+msgstr "Standard: 1000"
+
+#: ../views/admin/metaboxes/settings-general.php:53
+msgid ""
+"higher number can remind you on forgotten articles<br />\n"
+"\t\t\t\t Also you can n,m put in where n is the starting point and m the number of slides shown after starting point"
+msgstr "H&ouml;here Zahlen k&ouml;nnen Sie an vergessene Artikel erinnern <br /> Sie k&ouml;nnen auch n,m einsetzen, wobei n der Startpunkt und m die Anzahl der Bilder nach dem Startpunkt ist"
+
+#: ../views/admin/metaboxes/settings-styles.php:9
+msgid "Resize Images"
+msgstr "Bildgr&ouml;ße anpassen"
+
+#: ../views/admin/metaboxes/settings-styles.php:11
+msgid "Images are resized proportionally to fit the width of the slideshow area"
+msgstr "Bilder werden proportional skaliert"
+
+#: ../views/admin/metaboxes/settings-styles.php:15
+msgid "Gallery width"
+msgstr "Galeriebreite"
+
+#: ../views/admin/metaboxes/settings-styles.php:18
+msgid "put in number with px or %"
+msgstr "Zahl mit Ma&szlig;einheit px oder % eingeben"
+
+#: ../views/admin/metaboxes/settings-styles.php:19
+msgid "width of the slideshow gallery, supply here measure of unit px or %"
+msgstr "Breite der Slideshow Galerie, gebe die Maße mit den Maßeinheiten px oder % an"
+
+#: ../views/admin/metaboxes/settings-styles.php:24
+msgid "Gallery Height"
+msgstr "Galeriehöhe"
+
+#: ../views/admin/metaboxes/settings-styles.php:26
+msgid "px"
+msgstr ""
+
+#: ../views/admin/metaboxes/settings-styles.php:27
+msgid "height of the slideshow gallery"
+msgstr "Höhe der Slideshow Galerie"
+
+#: ../views/admin/metaboxes/settings-styles.php:31
+msgid "Slideshow Border"
+msgstr "Slideshowrahmen"
+
+#: ../views/admin/metaboxes/settings-styles.php:34
+msgid ""
+"perhaps you have to adapt with for seeing the right border <br />\n"
+"\t\t\t\tthe bottom border cannot be seen if the height of the image is larger than the height of the gallery"
+msgstr ""
+"Vielleicht muss die Breite angepasst werden, um den rechten Rahmen sehen zu können<br />\n"
+"\t\t\t\t der untere Rahmen kann nicht gesehen werden, wenn die Höhe des Bildes größer als die Höhe der Galerie ist"
+
+#: ../views/admin/metaboxes/settings-styles.php:40
+msgid "Slideshow Background"
+msgstr "Slideshow Hintergrund"
+
+#: ../views/admin/metaboxes/settings-styles.php:43
+msgid "the best choicer in my opinion is <strong>transparent</strong>"
+msgstr "Die beste Wahl ist nach meiner Ansicht <strong>transparent</strong>"
+
+#: ../views/admin/metaboxes/settings-styles.php:48
+msgid "Information Background"
+msgstr "Hintergrund der &Uuml;berschrift"
+
+#: ../views/admin/metaboxes/settings-styles.php:51
+msgid ""
+"the best choicer in my opinion is <strong>transparent</strong><br />\n"
+"\t\t\t\tsee also text color"
+msgstr "Die beste Wahl ist nach meiner Ansicht <strong>transparent</strong>, s. auch Textfarbe"
+
+#: ../views/admin/metaboxes/settings-styles.php:57
+msgid "Information Text Color"
+msgstr "Textfarbe der &Uuml;berschrift"
+
+#: ../views/admin/metaboxes/settings-styles.php:60
+msgid "give sufficient contrast to Information Background"
+msgstr "Wähle ausreichenden Kontrast zum Hintergrund der Überschrift"
+
+#: ../views/admin/metaboxes/settings-styles.php:65
+msgid "Information Text Size"
+msgstr "Zeichengröße der &Uuml;berschrift"
+
+#: ../views/admin/metaboxes/settings-styles.php:68
+msgid "recommended: 1em <br/ > give number with unit of measurement px,em or %"
+msgstr "empfohlen: 1em, gib die Zahl mit den Ma&szlig;einheiten px, em oder % an"
+
+#: ../views/admin/metaboxes/settings-submit.php:9
+msgid "Reset all configuration settings to their default values"
+msgstr "Setze alle Optionen auf ihre Standardwerte zurück"
+
+#: ../views/admin/metaboxes/settings-submit.php:9
+msgid "Are you sure you wish to reset all configuration settings?"
+msgstr "Sind sie sicher, dass sie die Optionen auf ihre Standardwerte zurücksetzen wollen"
+
+#: ../views/admin/metaboxes/settings-submit.php:9
+msgid "Reset to Defaults"
+msgstr "Zurücksetzen auf Standards"
+
+#: ../views/admin/metaboxes/settings-submit.php:15
+msgid "Save Configuration"
+msgstr "Sichere Optionen"
+

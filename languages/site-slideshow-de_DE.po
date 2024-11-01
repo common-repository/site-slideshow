@@ -1,0 +1,245 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Site Slideshow\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-11-28 10:45+0100\n"
+"PO-Revision-Date: 2011-11-28 10:48+0100\n"
+"Last-Translator: Dietrich Koch <info@internetdienste-berlin.de>\n"
+"Language-Team: Dietrich Koch <info@internetdienste-berlin.de>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../site-slideshow.php:46
+msgid "Save Settings"
+msgstr "Sichere Optionen"
+
+#: ../site-slideshow.php:47
+msgid "General Settings"
+msgstr "Allgemeine Optionen"
+
+#: ../site-slideshow.php:49
+msgid "Appearance &amp; Styles"
+msgstr "Erscheinungsbild  &amp; Styles"
+
+#: ../site-slideshow.php:73
+msgid "All configuration settings have been reset to their defaults"
+msgstr "Alle Optionen werden zu ihren Standardwerten zur&uuml;ckgesetzt"
+
+#: ../site-slideshow.php:77
+msgid "Configuration settings could not be reset"
+msgstr "Optionen k&ouml;nnen nicht zur&uuml;ckgesetzt werden"
+
+#: ../site-slideshow.php:90
+msgid "Configuration has been saved"
+msgstr "Optionen wurden gesichert"
+
+#: ../slideshow-gallery-plugin.php:177
+msgid "Uploads folder named \""
+msgstr "Name des Hochladeverzeichnisses"
+
+#: ../slideshow-widget.php:33
+msgid "widget that display a slideshow from all attachments"
+msgstr "Widget, das aus allen Attachments eine Slideshow erzeugt"
+
+#: ../slideshow-widget.php:34
+msgid "Siteshow Widget"
+msgstr "Siteshow Widget"
+
+#: ../slideshow-widget.php:39
+msgid "Siteshow"
+msgstr "Siteshow"
+
+#: ../slideshow-widget.php:44
+msgid "Title"
+msgstr "Titel"
+
+#: ../slideshow-widget.php:45
+msgid "Description"
+msgstr "Beschreibung"
+
+#: ../views/admin/settings.php:14
+msgid "Configuration Settings"
+msgstr "Optionen"
+
+#: ../views/admin/settings.php:16
+msgid "Contact me if you have trouble with this plugin:  "
+msgstr "Schreibe  mir, wenn du Probleme mit dem Plugin hast: "
+
+#: ../views/admin/settings.php:18
+msgid "Please give me your vote:  "
+msgstr " Bitte gib mir deine Stimme: "
+
+#: ../views/admin/settings.php:21
+msgid "A small thankyou?"
+msgstr "Ein kleines Dankesch&ouml;n?"
+
+#: ../views/admin/settings.php:27
+msgid "or better: put this link"
+msgstr "noch besser: stelle diesen Link"
+
+#: ../views/admin/settings.php:27
+msgid " anywhere on your site"
+msgstr " irgendwo auf deine Website"
+
+#: ../views/admin/settings.php:41
+msgid "Reset all configuration settings to their default values"
+msgstr "Setze alle Optionen auf ihre Standardwerte zurück"
+
+#: ../views/admin/settings.php:41
+msgid "Are you sure you wish to reset all configuration settings?"
+msgstr "Sind sie sicher, dass sie die Optionen auf ihre Standardwerte zurücksetzen wollen"
+
+#: ../views/admin/settings.php:41
+msgid "Reset to Defaults"
+msgstr "Zurücksetzen auf Standards"
+
+#: ../views/admin/settings.php:47
+msgid "Save Configuration"
+msgstr "Sichere Optionen"
+
+#: ../views/admin/settings.php:74
+msgid "Auto Speed"
+msgstr "Geschwindigkeit des Bildwechsels"
+
+#: ../views/admin/settings.php:76
+msgid "speed"
+msgstr "Geschwindigkeit"
+
+#: ../views/admin/settings.php:77
+msgid "default:2000 (in ms)"
+msgstr "Standard: 2000 (in ms)"
+
+#: ../views/admin/settings.php:77
+msgid "lower number for shorter interval between images"
+msgstr "kleinere Zahlen für k&uuml;rzere Abst&auml;nde zwischen den Bildern"
+
+#: ../views/admin/settings.php:87
+msgid "Image Fading Speed"
+msgstr "Geschwindigkeit des Bild&uuml;bergangs"
+
+#: ../views/admin/settings.php:90
+msgid "default:2000 recommended:1000-20000 (in ms)"
+msgstr "Standard:2000 empfohlen: 1000-20000 (in ms)"
+
+#: ../views/admin/settings.php:90
+msgid "lower number for quicker fading of images"
+msgstr "kleinere Zahlen f&uuml;r schnelleren Bild&uuml;bergang"
+
+#: ../views/admin/settings.php:95
+msgid "Show title of post"
+msgstr "Zeige Titel des Artikels bzw. der Seite"
+
+#: ../views/admin/settings.php:97
+#: ../views/admin/settings.php:109
+msgid "Yes"
+msgstr "Ja"
+
+#: ../views/admin/settings.php:98
+#: ../views/admin/settings.php:110
+msgid "No"
+msgstr "Nein"
+
+#: ../views/admin/settings.php:107
+msgid "Choose random modus"
+msgstr "Wähle zufällige Bildreihenfolge"
+
+#: ../views/admin/settings.php:111
+msgid "If you choose NO you see the images always in the same reverse time order "
+msgstr "Wenn Sie Nein w&auml;hlen, werden die Bilder immer in der gleichen Reihenfolge gezeigt"
+
+#: ../views/admin/settings.php:115
+msgid "Number of slides"
+msgstr "Anzahl der Bilder"
+
+#: ../views/admin/settings.php:118
+msgid "default:1000 "
+msgstr "Standard: 1000"
+
+#: ../views/admin/settings.php:118
+msgid "higher number can remind you on forgotten articles. Also you can n,m put in where n is the starting point and m the number of slides shown after starting point"
+msgstr "H&ouml;here Zahlen k&ouml;nnen Sie an vergessene Artikel erinnern <br /> Sie k&ouml;nnen auch n,m einsetzen, wobei n der Startpunkt und m die Anzahl der Bilder nach dem Startpunkt ist"
+
+#: ../views/admin/settings.php:135
+msgid "Resize Images"
+msgstr "Bildgr&ouml;ße anpassen"
+
+#: ../views/admin/settings.php:137
+msgid "Images are resized proportionally to fit the width of the slideshow area"
+msgstr "Bilder werden proportional skaliert"
+
+#: ../views/admin/settings.php:141
+msgid "Gallery width"
+msgstr "Galeriebreite"
+
+#: ../views/admin/settings.php:144
+msgid "put in number with px or %"
+msgstr "Zahl mit Ma&szlig;einheit px oder % eingeben"
+
+#: ../views/admin/settings.php:145
+msgid "width of the slideshow gallery, supply here measure of unit px or %"
+msgstr "Breite der Slideshow Galerie, gebe die Maße mit den Maßeinheiten px oder % an"
+
+#: ../views/admin/settings.php:150
+msgid "Gallery Height"
+msgstr "Galeriehöhe"
+
+#: ../views/admin/settings.php:152
+msgid "px"
+msgstr "px"
+
+#: ../views/admin/settings.php:153
+msgid "height of the slideshow gallery"
+msgstr "Höhe der Slideshow Galerie"
+
+#: ../views/admin/settings.php:157
+msgid "Slideshow Border"
+msgstr "Slideshowrahmen"
+
+#: ../views/admin/settings.php:160
+msgid "perhaps you have to adapt with for seeing the right border, the bottom border cannot be seen if the height of the image is larger than the height of the gallery"
+msgstr ""
+"Vielleicht muss die Breite angepasst werden, um den rechten Rahmen sehen zu können<br />\n"
+"\t\t\t\t der untere Rahmen kann nicht gesehen werden, wenn die Höhe des Bildes größer als die Höhe der Galerie ist"
+
+#: ../views/admin/settings.php:165
+msgid "Slideshow Background"
+msgstr "Slideshow Hintergrund"
+
+#: ../views/admin/settings.php:168
+msgid "the best choicer in my opinion is <strong>transparent</strong>"
+msgstr "Die beste Wahl ist nach meiner Ansicht <strong>transparent</strong>"
+
+#: ../views/admin/settings.php:173
+msgid "Information Background"
+msgstr "Hintergrund der &Uuml;berschrift"
+
+#: ../views/admin/settings.php:176
+msgid ""
+"the best choicer in my opinion is <strong>transparent</strong><br />\n"
+"\t\t\t\tsee also text color"
+msgstr "Die beste Wahl ist nach meiner Ansicht <strong>transparent</strong>, s. auch Textfarbe"
+
+#: ../views/admin/settings.php:182
+msgid "Information Text Color"
+msgstr "Textfarbe der &Uuml;berschrift"
+
+#: ../views/admin/settings.php:185
+msgid "give sufficient contrast to Information Background"
+msgstr "Wähle ausreichenden Kontrast zum Hintergrund der Überschrift"
+
+#: ../views/admin/settings.php:190
+msgid "Information Text Size"
+msgstr "Zeichengröße der &Uuml;berschrift"
+
+#: ../views/admin/settings.php:193
+msgid "recommended: 1em <br/ > give number with unit of measurement px,em or %"
+msgstr "empfohlen: 1em, gib die Zahl mit den Ma&szlig;einheiten px, em oder % an"
+
